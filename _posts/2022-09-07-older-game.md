@@ -7,6 +7,8 @@ preview: /assets/Mario2.jpg
 ---
 
 ![Picture 1](/assets/Mario.png)
+
+
 [Play Mario Here!](/assets/Mario/Lab04.html)
 
 Since Mario is 2D, the collision check is a little bit of work:
