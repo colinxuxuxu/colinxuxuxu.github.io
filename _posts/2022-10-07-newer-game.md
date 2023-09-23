@@ -9,6 +9,8 @@ preview: /assets/portal-cover.jpeg
 ![Picture 1](/assets/Portal.png)
 [Play Portal Here](/assets/Portal/Lab12.html)
 
+Left mouse to place a portal, Right mouse to put another, R to reset portal, F to skip voiceovers
+
 Put down info here, either in bullets or paragraphs.
 A little something about the implementation:
 *It is impossible to layout everything here since the entire project is big, but essentially the game is implemented with the SDL library
