@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Oldest Game"
-summary: "Design Intern"
-date:   2022-09-06 15:39:40
-preview: /assets/postpreview.png
+title:  "Asteroids"
+summary: ""
+date:   2023-9-22
+preview: /assets/Asteroids.jpg
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/Asteroids2.png)
 
-Put down info here, either in bullets or paragraphs.
+[Play Asteroids Here!](/assets/Asteroids/Lab02.html)
+
+Implemented Asteroids:
+* The space vessel moves according to its forward vector and it can rotate to aim at the asteroids
+* Collision between vessel and asteroids is disabled, but the bullets still destroy the asteroids
