@@ -2,7 +2,7 @@
 layout: post
 title:  "Portal"
 summary: "Recreated Portal with SDL library, implemented several playable levels"
-date:  9/22/2023
+date:  2023-9-22
 preview: /assets/portal-cover.jpeg
 ---
 
