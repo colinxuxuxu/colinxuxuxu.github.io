@@ -10,6 +10,8 @@ preview: /assets/Asteroids.jpg
 
 [Play Asteroids Here!](/assets/Asteroids/Lab02.html)
 
+Press space to shoot!
+
 Implemented Asteroids:
 * The space vessel moves according to its forward vector and it can rotate to aim at the asteroids
 * Collision between vessel and asteroids is disabled, but the bullets still destroy the asteroids
