@@ -2,7 +2,7 @@
 layout: post
 title:  "Mario Kart"
 summary: "Coded a simple level of Mario Kart implemented with an Opponent AI."
-date:   2022-10-09 15:39:40
+date:   2022-9-22
 preview: /assets/postpreview.png
 ---
 
